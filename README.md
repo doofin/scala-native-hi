@@ -16,4 +16,7 @@ Generate bindings for C libraries
  - https://github.com/indoorvivants/sn-bindgen
  - https://github.com/scala-native/scala-native-bindgen/pull/200 (old)
 
+For embedding programs
+ - https://gist.github.com/jrudolph/f51fb94a7084601777b3161bd8b819ba
+
 ## References
