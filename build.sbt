@@ -17,7 +17,7 @@ nativeConfig ~= { c =>
 
 // generate bindings from c header
 // libclang-17.so.17: cannot open shared object file
-
+// usage: snbindgen_native --header rkllm.h --package librkllm
 enablePlugins(ScalaNativePlugin, BindgenPlugin)
 import bindgen.interface.Binding
 
